@@ -35,7 +35,7 @@ Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells 
 Class Features
 ==============
 
-All of the following are features of the bolrcaster prestige class.
+All of the following are features of the boltcaster prestige class.
 
 *Weapon and Armor Proficiency* Boltcasters gain no proficiency with any weapons or armor.
 
